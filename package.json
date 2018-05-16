@@ -1,0 +1,23 @@
+{
+  "name": "easy-test-loader",
+  "version": "1.0.0",
+  "description": "这是一个webpack loader的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linnanli/easy-test-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "linnanli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linnanli/easy-test-loader/issues"
+  },
+  "homepage": "https://github.com/Linnanli/easy-test-loader#readme"
+}
